@@ -1,0 +1,14 @@
+@font-face {
+    font-family:Ruda-1;
+    src: url(/hack_4/Fonts/static/Ruda-ExtraBold.ttf)
+}
+
+@font-face {
+    font-family:Catamaran;
+    src: url(/hack_4/Fonts/Catamaran/static/Catamaran-ExtraBold.ttf)
+}
+
+@font-face {
+    font-family:Open;
+    src: url(/hack_4/Fonts/Open/static/OpenSans-ExtraBold.ttf)
+}

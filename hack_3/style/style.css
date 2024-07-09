@@ -1,0 +1,107 @@
+:root {
+    --bg-blue:#93B5C9; 
+    --bg-wine:#AB2849;
+}
+
+.body{
+
+    margin: 0;
+    overflow-x: hidden;
+    background-color: antiquewhite;
+}
+
+.container{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.block-1{
+
+    padding: 5%;
+    width: 110vw;
+    background-color: #93B5C9;
+}
+
+.block-2{
+    
+    padding: 9%;
+    width: 100vw;
+    background-color: #AB2849;
+}
+
+.block-3{
+    
+    padding: 5%;
+    width: 71%;
+    margin: 1%;
+    background-color: #AB2849;
+}
+
+.x2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+    width: 100%;
+}
+
+.block-4{
+    
+    padding: 5%;
+    width: 29.5%;
+    height: 10%;
+    margin: 1%;
+    background-color: #AB2849;
+}
+
+.block-5{
+    
+    padding: 5%;
+    width: 30%;
+    height: 10%;
+    margin: 1%;
+    background-color: #AB2849;
+}
+
+.block-6{
+    
+    padding: 5%;
+    width: 71%;
+    height: 10%;
+    background-color: #AB2849;
+
+}
+
+.block-7{
+    
+    padding: 5%;
+    width: 30%;
+    height: 10%;
+    margin: 1%;
+    background-color: #AB2849;
+
+}
+
+.block-8{
+    
+    padding: 5%;
+    width: 29%;
+    height: 10%;
+    margin: 1%;
+    background-color: #AB2849;
+
+}
+
+.block-9{
+    
+    padding: 5%;
+    width: 71%;
+    height: 10%;
+    margin: 1%;
+    background-color: #AB2849;
+
+}
