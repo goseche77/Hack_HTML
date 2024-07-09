@@ -58,7 +58,7 @@ PULL_REQUEST_TEMPLATE
 # Tecnología
 - [X] HTML
 - [X] CSS3
-- [ ] docs
+- [X] docs
 
 # Seleccione el tipo de actividad
 - [X] Feature
